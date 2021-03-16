@@ -1,0 +1,67 @@
+.balkocka{
+    background-color: rgb(52, 147, 108);
+    height: 100%;
+    width: 50%;
+    position: absolute;
+    display: inline-block;
+}
+
+.jobbkocka{
+    background-color: white;
+    height: 100%;
+    width: 50%;
+    margin-left: 50%;
+    position: absolute;
+    display: inline-block;
+}
+
+.kekkocka{
+    background-color: rgb(31, 33, 103);
+    height: 74%;
+    width: 76%;
+    margin-top: 10%;
+    margin-left: 9.5%;
+    padding: 3%;
+    position: absolute;
+    display: inline-block;
+}
+
+.teglalap1{
+    background-color: rgb(52, 147, 108);
+    height: 8%;
+    width: 80%;
+    margin-top: 7%;
+    margin-left: 7%;
+    position: absolute;
+    display: inline-block;
+}
+
+.teglalap2{
+    background-color: rgb(52, 147, 108);
+    height: 8%;
+    width: 80%;
+    margin-top: 27%;
+    margin-left: 7%;
+    position: absolute;
+    display: inline-block;  
+}
+
+.teglalap3{
+    background-color: rgb(52, 147, 108);
+    height: 8%;
+    width: 80%;
+    margin-top: 47%;
+    margin-left: 7%;
+    position: absolute;
+    display: inline-block;
+}
+
+.teglalap4{
+    background-color: rgb(52, 147, 108);
+    height: 8%;
+    width: 80%;
+    margin-top: 67%;
+    margin-left: 7%;
+    position: absolute;
+    display: inline-block;
+}
