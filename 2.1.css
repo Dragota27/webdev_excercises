@@ -35,10 +35,21 @@
 .teglalap3{
     background-color: white;
     height: 64%;
-    width: 60%;
+    width: 74%;
     margin-top: 15%;
-    margin-left: 12%;
+    margin-left: 23%;
     margin-right: 2%;
     position: absolute;
     display: inline-block;
+}
+
+.kicsikocka2{
+    background-color: rgb(147, 106, 52);
+    height: 10.5%;
+    width: 4.5%;
+    margin-top: 2%;
+    margin-left: 3%;
+    margin-right: 3%;
+    position: absolute;
+    display: inline;
 }
