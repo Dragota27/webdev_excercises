@@ -45,10 +45,65 @@
 
 .kicsikocka2{
     background-color: rgb(147, 106, 52);
-    height: 10.5%;
-    width: 4.5%;
-    margin-top: 2%;
+    height: 12.5%;
+    width: 5%;
+    margin-top: 3%;
     margin-left: 3%;
+    margin-right: 3%;
+    position: absolute;
+    display: inline;
+}
+
+.kicsikocka3{
+    background-color: rgb(147, 106, 52);
+    height: 12.5%;
+    width: 5%;
+    margin-top: 10.5%;
+    margin-left: 3%;
+    margin-right: 3%;
+    position: absolute;
+    display: inline;
+}
+
+.kicsikocka4{
+    background-color: rgb(147, 106, 52);
+    height: 12.5%;
+    width: 5%;
+    margin-top: 18%;
+    margin-left: 3%;
+    margin-right: 3%;
+    position: absolute;
+    display: inline;
+}
+
+.kicsikocka5{
+    background-color: rgb(147, 106, 52);
+    height: 12.5%;
+    width: 5%;
+    margin-top: 25.5%;
+    margin-left: 3%;
+    margin-right: 3%;
+    position: absolute;
+    display: inline;
+}
+
+.kicsikocka6{
+    background-color: rgb(147, 106, 52);
+    height: 12.5%;
+    width: 5%;
+    margin-top: 33%;
+    margin-left: 3%;
+    margin-right: 3%;
+    position: absolute;
+    display: inline;
+}
+
+.kicsiteglalap1{
+    background-color: rgb(147, 106, 52);
+    height: 12.5;
+    width: 75%;
+    margin-top: 3%;
+    margin-left: 6%;
     margin-right: 3%;
     position: absolute;
     display: inline;
