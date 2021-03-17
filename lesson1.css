@@ -6,3 +6,21 @@
     margin: 0;
     padding: 0;
 }
+
+.szukteglalap{
+    background-color: white;
+    height: 100%;
+    width: 15%;
+    position: absolute;
+    display: inline-block;
+    margin-left: 24.5%;
+}
+
+.tagteglalap{
+    background-color: #789869;
+    height: 100%;
+    width: 35.5%;
+    position: absolute;
+    display: inline-block;
+    margin-left: 39.5%;
+}
