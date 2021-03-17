@@ -1,0 +1,6 @@
+Design a web page according to the mockups.
+Respect all the values given, approximate the ones that are not specified.
+For this one, use a single .html file.
+Use inline styling.
+The simpler the solution the better it is.
+Have fun.
