@@ -10,17 +10,49 @@
 .szukteglalap{
     background-color: white;
     height: 100%;
-    width: 15%;
+    width: 18%;
     position: absolute;
-    display: inline-block;
-    margin-left: 24.5%;
+    display: inline;
+    margin-left: 21.5%;
+}
+
+.mrpickles{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    position: absolute;
+    display: inline;
+    margin-top: 40%;
+    margin-left: 30.5%;
+    color: #2e4b08;
+}
+
+.bio{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 150px;
+    font-weight: 300;
+    position: absolute;
+    display: inline;
+    margin-top: 37%;
+    margin-left: 26%;
+    color: #2e4b08;
 }
 
 .tagteglalap{
     background-color: #789869;
     height: 100%;
-    width: 35.5%;
+    width: 37%;
     position: absolute;
-    display: inline-block;
+    display: inline;
     margin-left: 39.5%;
+}
+
+.veggies{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 150px;
+    font-weight: 300;
+    position: absolute;
+    display: inline;
+    color: white;
+    margin-top: 18%;
 }
