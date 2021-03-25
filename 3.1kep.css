@@ -1,0 +1,83 @@
+.hatter{
+    background-color: rgb(147, 190, 164);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    display: inline;
+    opacity: 0.5;
+}
+
+.body{
+    margin: 0ch;
+}
+
+.szoveg{
+    position: absolute;
+    font-size: xx-small;
+    padding: 8%;
+
+}
+
+.feherdoboz{
+    background-color: white;
+    position: absolute;
+    margin: 18%;
+    margin-left: 33%;
+    height: 25%;
+    width: 33%;
+}
+
+.szoveg2{
+    margin-left: 4%;
+    margin-top: 2%;
+    position: absolute;
+    font-size: x-small;
+    font-weight: bold;
+}
+
+.X{
+    margin-left: 90%;
+    margin-top: 4%;
+    position: absolute;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.elsosor{
+    margin-left: 4%;
+    margin-top: 15%;
+    position: absolute;
+    font-size: medium;
+    font-weight: lighter;
+}
+
+.masodiksor{
+    margin-left: 4%;
+    margin-top: 20%;
+    position: absolute;
+    font-size: medium;
+    font-weight: lighter;
+}
+
+.Leave{
+    margin-left: 70%;
+    margin-top: 30%;
+    position: absolute;
+    font-size: medium;
+    font-weight: bold;
+    text-decoration: underline;
+    color: rgb(204, 45, 19);
+
+}
+
+.Cancel{
+    margin-left: 83%;
+    margin-top: 30%;
+    position: absolute;
+    font-size: medium ;
+    font-weight: bold;
+    text-decoration: underline;
+    color: black;
+}
