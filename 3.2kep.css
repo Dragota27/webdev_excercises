@@ -1,0 +1,12 @@
+.hatter{
+    background-color: rgb(211, 199, 141);
+    position: absolute;
+    margin: 0ch;
+    height: 100%;
+    width: 100%;
+    display: inline;
+}
+
+.body{
+    margin: 0ch;
+}
