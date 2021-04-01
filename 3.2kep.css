@@ -1,5 +1,6 @@
 .body{
   margin: 0ch;  
+  background-color: rgb(211, 199, 141);
 }
 
 .kep{
@@ -8,4 +9,21 @@
   background-image: url(unnamed.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  position: sticky;
+}
+
+.szoveg{
+  margin-left: 7%;
+  margin-right: 7%;
+  margin-top: 10%;
+  text-align: start;
+  font-size: xx-small;
+  font-weight: 100;
+  background-color: rgb(211, 199, 141); 
+}
+
+.hatter{
+  background-color: rgb(211, 199, 141);
+  position: fixed;
+  
 }
