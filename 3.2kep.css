@@ -9,21 +9,44 @@
   background-image: url(unnamed.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  position: sticky;
+  position: fixed;
+  top: 0ch;
 }
 
 .szoveg{
   margin-left: 7%;
   margin-right: 7%;
-  margin-top: 10%;
+  margin-top: 20%;
+  margin-bottom: 10%;
   text-align: start;
   font-size: xx-small;
   font-weight: 100;
-  background-color: rgb(211, 199, 141); 
 }
 
-.hatter{
-  background-color: rgb(211, 199, 141);
+.kicsikocka{
+  height: 4%;
+  width: 2%;
+  background-color: rgb(143, 76, 131);
   position: fixed;
-  
+  margin-right: 2%;
+  margin-top: 15%;
+  margin-left: 95%;
 }
+
+.kerdojel{
+  color: white;
+  margin-top: 13.8%;
+  margin-left: 95.5%;
+  position: fixed;
+  margin-right: 2%;
+}
+
+.teglalap{
+  height: 5%;
+  width: 100%;
+  position: fixed;
+  display: inline;
+  background-color: rgb(143, 76, 131);
+  margin-top: -6.9%;
+}
+
