@@ -1,12 +1,11 @@
-.hatter{
-    background-color: rgb(211, 199, 141);
-    position: absolute;
-    margin: 0ch;
-    height: 100%;
-    width: 100%;
-    display: inline;
+.body{
+  margin: 0ch;  
 }
 
-.body{
-    margin: 0ch;
+.kep{
+  height: 200px;
+  width: 100%;
+  background-image: url(unnamed.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
