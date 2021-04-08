@@ -1,0 +1,35 @@
+.body{
+    margin: 0ch;
+}
+
+.fentisav{
+    background-color: rgb(255, 201, 14);
+    width: 100%;
+    height: 5%;
+    position: fixed;
+    display: inline;
+}
+
+.dashboard{
+    font-size: 25px;
+    margin-left: 2% ;
+    margin-top: 0.3ch;
+    font-weight: bolder;
+}
+
+.hatter{
+    background-color: white;
+    position: absolute;
+    display: inline;
+    width: 80%;
+    height: 100%;
+}
+
+.feketesav{
+    height: 88.5%;
+    width: 15%;
+    position: absolute;
+    display: inline;
+    background-color: rgb(35, 27, 27);
+    margin-top: 7%;
+}
