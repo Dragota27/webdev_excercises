@@ -1,0 +1,62 @@
+@font-face {
+    font-family: Marlboro;
+    src: url(Imbue-VariableFont_opsz\,wght.ttf);
+}
+
+body{
+    background-color: black;
+    margin: 0%;
+    height: 100%;
+    width: 100%;
+}
+
+.fehersav{
+    height: 10px;
+    width: 100%;
+    margin-top: -14%;
+    background-color: white;
+}
+
+.vorossav{
+    height: 20px;
+    width: 100%;
+    margin-top: 0%;
+    margin-bottom: 10px;
+    background-color: rgb(87, 0, 0);
+    top: 0;
+}
+
+.kep{
+    margin-left: 150px;
+    height: 100%;
+    width: 35%;
+    display: inline-block;
+}
+
+.Searching{
+    color: rgb(2, 59, 96);
+    margin-left: 41%;
+    margin-top: -30%;
+    display: flex;
+    align-self: center;
+    font-size: 5rem;
+}
+
+.Gana{
+    color: white;
+    margin-left: 59%;
+    margin-top: 0%;
+    display: flex;
+    align-self: center;
+    font-size: 4rem;
+}
+
+.Marlboro{
+    color: white;
+    margin-left: 56%;
+    margin-top: 2%;
+    display: flex;
+    align-self: center;
+    font-size: 14rem;
+    font-family: marlboro;
+}

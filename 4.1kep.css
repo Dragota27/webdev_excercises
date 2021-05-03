@@ -28,8 +28,23 @@
 .feketesav{
     height: 88.5%;
     width: 15%;
-    position: absolute;
     display: inline;
     background-color: rgb(35, 27, 27);
     margin-top: 7%;
+}
+
+.fas fa-users-cog{
+
+}
+
+.kep{
+    background-image: url("./IMG-20180929-WA0026.jpg");
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    background-color: red;
+    border: 1px solid royalblue;
+    z-index: 27;
+    
+    
 }
